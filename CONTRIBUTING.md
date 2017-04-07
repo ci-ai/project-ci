@@ -7,18 +7,18 @@ Contributions are welcome!
 
 ## Bug Reports
 
-For bug reports or requests [submit an issue](https://github.com/donnemartin/system-design-primer/issues).
+For bug reports or requests [submit an issue](https://github.com/gopala-kr/Project-CI/issues).
 
 ## Pull Requests
 
 The preferred way to contribute is to fork the
-[main repository](https://github.com/donnemartin/system-design-primer) on GitHub.
+[main repository](https://github.com/gopala-kr/Project-CI) on GitHub.
 
-1. Fork the [main repository](https://github.com/donnemartin/system-design-primer).  Click on the 'Fork' button near the top of the page.  This creates a copy of the code under your account on the GitHub server.
+1. Fork the [main repository](https://github.com/gopala-kr/Project-CI).  Click on the 'Fork' button near the top of the page.  This creates a copy of the code under your account on the GitHub server.
 
 2. Clone this copy to your local disk:
 
-        $ git clone git@github.com:YourLogin/system-design-primer.git
+        $ git clone git@github.com:YourLogin/Project-CI.git
         $ cd system-design-primer
 
 3. Create a branch to hold your changes and start making changes. Don't work in the `master` branch!
