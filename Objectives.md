@@ -18,10 +18,6 @@ https://en.wikipedia.org/wiki/Collective_intelligence
 
 https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
 
-https://en.wikipedia.org/wiki/Artificial_general_intelligence
-
-https://en.wikipedia.org/wiki/Intelligence_amplification
-
 http://ieeexplore.ieee.org/document/7803009/?reload=true
 
 http://dl.acm.org/citation.cfm?id=3006041
