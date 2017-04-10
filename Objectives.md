@@ -22,6 +22,8 @@ https://en.wikipedia.org/wiki/Artificial_general_intelligence
 
 https://en.wikipedia.org/wiki/Intelligence_amplification
 
-https://en.wikipedia.org/wiki/Artificial_general_intelligence
-
 https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
+
+http://data.worldbank.org/data-catalog/ed-stats
+
+
