@@ -26,4 +26,6 @@ https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
 
 http://data.worldbank.org/data-catalog/ed-stats
 
+http://mhrd.gov.in/statist
+
 
