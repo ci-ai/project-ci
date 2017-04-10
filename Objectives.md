@@ -10,20 +10,4 @@ Project CI( Crowd Intelligence/Collective Intelligence) is an open source initia
 
 ...........
 
-Related info & moto for this initiative:
-
-https://en.wikipedia.org/wiki/Knowledge_gap_hypothesis
-
-https://en.wikipedia.org/wiki/Collective_intelligence
-
-https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
-
-http://ieeexplore.ieee.org/document/7803009/?reload=true
-
-http://dl.acm.org/citation.cfm?id=3006041
-
-http://data.worldbank.org/data-catalog/ed-stats
-
-http://mhrd.gov.in/statist
-
 
